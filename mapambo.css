@@ -7,7 +7,7 @@ button{color:#white;height:40px;
   cursor:pointer;
   border-radius:8px;
   box-shadow: 05px #3b3522;
-  transform: translate Y(0px);}
+  transform: translateY(0px);}
   
   header{
   background:#ffffff;
@@ -30,8 +30,7 @@ button{color:#white;height:40px;
   
   .joh{text-align:center;
   background-color:#caffaadd;
-  border-radius:30px;
-  :30px;}
+  border-radius:30px;}
   
   .bidhaa{width:200 px;
   padding:15 px;
@@ -43,13 +42,13 @@ button{color:#white;height:40px;
   gap:15px;
   padding:30px;
   background-color:#eabfff;
-  border-radius:30;}
+  border-radius:30px;}
   
   .bidhaah4{margin:10px 5px;}
   
-  .bidhaa img{width:100 %;
+  .bidhaa img{width:100%;
   height:auto;
-  border-radius:10 px;}
+  border-radius:10px;}
   
   
   
