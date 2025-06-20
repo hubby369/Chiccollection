@@ -1,51 +1,51 @@
 body{background:#bfffff}
 
-h1{color:#ff80b3;font-size:200 %;}
+h1{color:#ff80b3;font-size:200%;}
 
-button{color:#white;height:40;
+button{color:#white;height:40px;
   background:#ff80b3;
   cursor:pointer;
-  border-radius:8 px;
-  box-shadow: 0 5 px #3b3522;
-  transform: translate Y (0 px);}
+  border-radius:8px;
+  box-shadow: 05px #3b3522;
+  transform: translate Y(0px);}
   
   header{
   background:#ffffff;
   color:black;
-  padding-top:30 px;
-  min-height:30 px;
-  border-bottom:#e8491d 3 px solid;
-  border-top:#e8491d 3 px solid;}
+  padding-top:30px;
+  min-height:30px;
+  border-bottom:#e8491d 3px solid;
+  border-top:#e8491d 3px solid;}
   
   .mwisho{color:white;
   text-align:center;
   background-color: #28a745;
-  padding: 10 px 10 px; 
-  border-radius: 8 px;
+  padding: 10px 10px; 
+  border-radius:8px;
   width:font-size:15px;}
   
   .brian{
-  padding:30 px;
+  padding:30px;
   text-align:center;}
   
   .joh{text-align:center;
   background-color:#caffaadd;
-  border-radius:30 px;
+  border-radius:30px;
   :30px;}
   
   .bidhaa{width:200 px;
   padding:15 px;
-  border-radius:20 px;}
+  border-radius:20px;}
   
   .kupendeza{display:flex;
   flex-wrap:wrap;
   justify-content:center;
-  gap:15 px;
-  padding:30 px;
+  gap:15px;
+  padding:30px;
   background-color:#eabfff;
   border-radius:30;}
   
-  bidhaah4{margin 10px 5px;}
+  .bidhaah4{margin:10px 5px;}
   
   .bidhaa img{width:100 %;
   height:auto;
