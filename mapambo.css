@@ -1,0 +1,55 @@
+body{background:#bfffff}
+
+h1{color:#ff80b3;font-size:200%;}
+
+button{color:#white;height:40;
+  background:#ff80b3;
+  cursor:pointer;
+  border-radius:8px;
+  box-shadow: 0 5px #3b3522;
+  transform: translateY(0px);}
+  
+  header{
+  background:#ffffff;
+  color:black;
+  padding-top:30px;
+  min-height:30px;
+  border-bottom:#e8491d 3px solid;
+  border-top:#e8491d 3px solid;}
+  
+  .mwisho{color:white;
+  text-align:center;
+  background-color: #28a745;
+  padding: 10px 10px; 
+  border-radius: 8px;
+  width:font-size:15px;}
+  
+  .brian{
+  padding:30px;
+  text-align:center;}
+  
+  .joh{text-align:center;
+  background-color:#caffaadd;
+  border-radius:30px;
+  :30px;}
+  
+  .bidhaa{width:200px;
+  padding:15px;
+  border-radius:20px;}
+  
+  .kupendeza{display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:15px;
+  padding:30px;
+  background-color:#eabfff;
+  border-radius:30;}
+  
+  bidhaah4{margin 10px 5px;}
+  
+  .bidhaa img{width:100%;
+  height:auto;
+  border-radius:10px;}
+  
+  
+  
